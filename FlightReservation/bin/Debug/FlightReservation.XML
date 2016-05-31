@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FlightReservation</name>
+    </assembly>
+    <members>
+        <member name="T:FlightReservation.Account">
+            <summary>
+             Account class
+            </summary>
+        </member>
+        <member name="T:FlightReservation.Aircraft">
+            <summary>
+             Aircraft class
+            </summary>
+        </member>
+        <member name="T:FlightReservation.AirlineSys">
+            <summary>
+             Facade pattern for Airline system functions
+            </summary>
+        </member>
+        <member name="T:FlightReservation.Airport">
+            <summary>
+             Airport class
+            </summary>
+        </member>
+        <member name="T:FlightReservation.Brand">
+            <summary>
+             Brand class
+            </summary>
+        </member>
+        <member name="T:FlightReservation.Customer">
+            <summary>
+             Customer class
+            </summary>
+        </member>
+        <member name="T:FlightReservation.Flight">
+            <summary>
+             Flight class
+            </summary>
+        </member>
+        <member name="T:FlightReservation.FlightTicket">
+            <summary>
+             FlightTicket class
+            </summary>
+        </member>
+        <member name="T:FlightReservation.AirlineSystem">
+            <summary>
+             Facade Design pattern for whole system
+            </summary>
+        </member>
+        <member name="T:FlightReservation.Route">
+            <summary>
+             Route class
+            </summary>
+        </member>
+        <member name="T:FlightReservation.Seat">
+            <summary>
+             Seat class
+            </summary>
+        </member>
+        <member name="T:FlightReservation.SeatAssociation">
+            <summary>
+             Seat Association comprises FlightTicket, Aircraft and seat
+            </summary>
+        </member>
+        <member name="T:FlightReservation.Staff">
+            <summary>
+             Staff class extended from Account class
+            </summary>
+        </member>
+        <member name="T:FlightReservation.Ticket">
+            <summary>
+             Ticket class
+            </summary>
+        </member>
+        <member name="T:FlightReservation.TicketType">
+            <summary>
+             TicketType class
+            </summary>
+        </member>
+    </members>
+</doc>
